@@ -18,7 +18,7 @@ A curated collection of free and paid resources to get good at JavaScript.
 ## Books and Written Content
 
 ###### Featured
-- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - JavaScript guides and documentation
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - JavaScript guides and documentation (free)
 
 ###### Other
 - [Google Developers Training](https://developers.google.com/training/web/) - Excellent, wide-ranging explanations on web development (free)
